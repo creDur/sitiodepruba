@@ -1,0 +1,67 @@
+img.trog {
+    width: 500px;
+    height: 600px;
+    display: fl;
+    flex-direction: column;
+ }
+ img.treg {
+     width: 400px;
+    height: 300px;
+ 
+ 
+ 
+ }
+ body {
+     display: flex;
+ flex-direction: column;
+ }
+ 
+ .conte1 {
+     width: 950px;
+     height: 100px;
+     margin: 0;
+     background-color: none;
+     display: flex;
+     justify-content: center;
+     border-style: ridge;
+     border-width: 20px;
+     border-color: goldenrod ;
+ }
+ h1 {
+     color: rgb(148, 9, 9);
+     font-size: 40px;
+ }
+ .fath {
+     display: flex;
+ 
+ }
+ h2.tru {
+    width: 400px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    background-color: none;
+    border-bottom-style: dashed;
+    border-color: black;
+    font-size: 30px;
+ }
+ p {
+     width: 400px;
+     height: 100px;
+     background-color: cornsilk;
+     display: flex;
+     border-style: dashed double none;
+ }
+ strong {
+     color: red;
+ }
+ .fot {
+     background-color: rgba(255, 255, 0, 0.664);
+     width: 430px;
+     height: 200px;
+     border-style: dashed solid;
+ }
+ 
+ .tok {
+     padding-left: 250px;
+ }

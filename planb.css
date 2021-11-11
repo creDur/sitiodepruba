@@ -1,0 +1,46 @@
+body {
+    background-image: url(libros/libronegro4.png);
+    background-repeat: round;
+}
+b {
+    font-family: 'Stick No Bills', sans-serif;
+   font-size: 28px;
+   color: rgb(210, 51, 30);
+
+}
+h1 {
+    font-family: 'Bonheur Royale';
+    font-size: 50px;
+    color: rgb(175, 130, 16);
+
+
+}
+fas fa-book {
+    font-size: 50px;
+    
+}
+
+h2.play1 {
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+    color: grey;
+}
+
+ol.play2 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+    color: rgb(2, 73, 2);
+}
+
+p.play3 {
+    font-family: 'Itim', cursive;
+    color: indigo;
+}
+.din {
+    background-color: rgba(255, 255, 255, 0.719);
+    width: 1010px;
+    height: 90px;
+}
+img {
+    height: 200px;
+}

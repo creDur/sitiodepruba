@@ -1,0 +1,163 @@
+body {
+    background-image: url(libros/libronegro4.png);
+    background-repeat: round;
+}
+header {
+    border-right:solid 2px ;
+  border-bottom:solid 2px ;
+  border-top:solid 2px ;
+  border-color: white;
+}
+b {
+    font-family: 'Stick No Bills', sans-serif;
+   font-size: 28px;
+   color: rgb(210, 51, 30);
+
+}
+h1 {
+    font-family: 'Bonheur Royale';
+    font-size: 50px;
+    color: goldenrod;
+
+}
+fas fa-book {
+    font-size: 50px;
+    
+}
+
+#one {
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+    color: grey;
+    background-color: rgba(65, 105, 225, 0.377);
+    width: 200px;
+    height: 70px;
+    border-right:solid 1px ;
+  border-bottom:solid 1px ;
+  border-top:solid 1px ;
+}
+
+ol.play2 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+    color: rgb(2, 73, 2)!important;
+}
+
+ol.play2 {
+
+    color: red;
+}
+
+ol.play2 {
+    color:blue(2, 73, 2);
+}
+
+#uno{
+    font-family: 'Itim', cursive;
+    color: indigo;
+    font-weight: 600;
+    background-color: rgba(250, 128, 114, 0.445);
+    width: 206px;
+    height: 230px;
+    border-right:solid 2px ;
+    border-bottom:solid 2px ;
+    border-top:solid 2px ;
+    border-color: white;
+}
+
+#two {
+    color: grey;
+    font-size: 35px;
+    background-color: seagreen;
+    height: 70px;
+    width: 650px;
+    border-right:solid 2px ;
+    border-bottom:solid 2px ;
+    border-top:solid 2px ;
+    border-color: white;
+
+}
+
+aside {
+    color: rgb(153, 0, 0);
+    font-size: 20px;
+    font-weight: 1000;
+}
+
+
+footer {
+    font-family: 'Bonheur Royale';
+    color: white;
+    font-size: 30px;
+}
+
+header {
+    background-color: rgba(255, 0, 0, 0.295);
+    padding-left: 150px;
+}
+
+#container {
+   width: 1000px;
+   height: 100px;
+   margin:auto
+
+}
+
+#contenedor {
+    width: 1000px;
+    height: 400px;
+}
+#dos {
+    background-color: steelblue;
+    border-right:solid 2px ;
+    border-bottom:solid 2px ;
+    border-top:solid 2px ;
+    border-color: white;
+    width: 650px;
+}
+#box {
+    background-color: tomato;
+
+    padding-left: 500px;
+    border-right:solid 2px ;
+    border-bottom:solid 2px ;
+    border-top:solid 2px ;
+
+    border-color: white;
+}
+
+.fah {
+    border-right:solid 2px ;
+    border-bottom:solid 2px ;
+    border-top:solid 2px ;
+    border-color: white;
+    background-color: steelblue;
+    width: 608px;
+}
+.gah {
+    border-right:solid 2px ;
+    border-bottom:solid 2px ;
+    border-top:solid 2px ;
+    border-color: white;
+    background-color: steelblue;
+    width: 608px;
+}
+.kah {
+    border-right:solid 2px ;
+    border-bottom:solid 2px ;
+    border-top:solid 2px ;
+    border-color: white;
+    background-color: steelblue;
+    width: 608px;
+}
+.sah {
+    border-right:solid 2px ;
+    border-bottom:solid 2px ;
+    border-top:solid 2px ;
+    border-color: white;
+    background-color: steelblue;
+    width: 608px;
+}
+.junt {
+display: flex;
+}
